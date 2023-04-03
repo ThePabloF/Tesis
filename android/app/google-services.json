@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "858218914008",
+    "project_id": "basededatos-1057f",
+    "storage_bucket": "basededatos-1057f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858218914008:android:537e3725377069bd7177ad",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858218914008-ajtti0h0sbfevihfo7sbm2n38rvhkqhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13ur0xtN5ShCW7FZbXbSqc2lti91k8gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858218914008-ajtti0h0sbfevihfo7sbm2n38rvhkqhp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858218914008-itq0vg78jgth8afojjgp7088ucdd8fes.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858218914008:android:612a7c98f25854237177ad",
+        "android_client_info": {
+          "package_name": "com.example.firebase_pablo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858218914008-ajtti0h0sbfevihfo7sbm2n38rvhkqhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13ur0xtN5ShCW7FZbXbSqc2lti91k8gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858218914008-ajtti0h0sbfevihfo7sbm2n38rvhkqhp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858218914008-itq0vg78jgth8afojjgp7088ucdd8fes.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858218914008:android:9401616ace81c0477177ad",
+        "android_client_info": {
+          "package_name": "com.example.tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858218914008-ajtti0h0sbfevihfo7sbm2n38rvhkqhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13ur0xtN5ShCW7FZbXbSqc2lti91k8gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858218914008-ajtti0h0sbfevihfo7sbm2n38rvhkqhp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858218914008-itq0vg78jgth8afojjgp7088ucdd8fes.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
